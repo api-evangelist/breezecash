@@ -64,5 +64,148 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Breeze.cash is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by sequoia-capital) and added to the network as a stub for full-pipeline profiling.
-- https://breeze.cash/
+Breeze.cash is a venture‑backed startup listed in the API Evangelist harvest backlog (source: vc‑portfolio; backed by Sequoia Capital). No public website, API documentation, or developer portal could be verified; attempts to resolve https://breeze.cash/ redirected to an unrelated payments platform. The company remains a stub pending further evidence.
+
+**Areas:** Company · FinTech · Payments · Crypto · Startup · Venture-backed
+
+## Breeze.cash on APIs.io
+
+Everything profiled for Breeze.cash is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/breezecash/](https://apis.io/providers/breezecash/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [Breeze.cash Customers API](https://apis.io/apis/breezecash/breezecash-customers-api/) — The Customers API from Breeze.cash — 3 operation(s) for customers.
+- [Breeze.cash Direct Payment API](https://apis.io/apis/breezecash/breezecash-direct-payment-api/) — The Direct Payment API from Breeze.cash — 5 operation(s) for direct payment.
+- [Breeze.cash Disputes API](https://apis.io/apis/breezecash/breezecash-disputes-api/) — The Disputes API from Breeze.cash — 2 operation(s) for disputes.
+- [Breeze.cash Fraud Reports API](https://apis.io/apis/breezecash/breezecash-fraud-reports-api/) — The Fraud Reports API from Breeze.cash — 2 operation(s) for fraud reports.
+- [Breeze.cash Headless KYC API](https://apis.io/apis/breezecash/breezecash-headless-kyc-api/) — The Headless KYC API from Breeze.cash — 6 operation(s) for headless kyc.
+- [Breeze.cash Headless Payout API](https://apis.io/apis/breezecash/breezecash-headless-payout-api/) — The Headless Payout API from Breeze.cash — 1 operation(s) for headless payout.
+- [Breeze.cash Invoices API](https://apis.io/apis/breezecash/breezecash-invoices-api/) — The Invoices API from Breeze.cash — 1 operation(s) for invoices.
+- [Breeze.cash Liquidation Addresses API](https://apis.io/apis/breezecash/breezecash-liquidation-addresses-api/) — The Liquidation Addresses API from Breeze.cash — 4 operation(s) for liquidation addresses.
+- [Breeze.cash Offramp API](https://apis.io/apis/breezecash/breezecash-offramp-api/) — The Offramp API from Breeze.cash — 4 operation(s) for offramp.
+- [Breeze.cash Payment Pages API](https://apis.io/apis/breezecash/breezecash-payment-pages-api/) — The Payment Pages API from Breeze.cash — 6 operation(s) for payment pages.
+- [Breeze.cash Payout Pages API](https://apis.io/apis/breezecash/breezecash-payout-pages-api/) — The Payout Pages API from Breeze.cash — 5 operation(s) for payout pages.
+- [Breeze.cash Products API](https://apis.io/apis/breezecash/breezecash-products-api/) — The Products API from Breeze.cash — 3 operation(s) for products.
+- [Breeze.cash Risk API](https://apis.io/apis/breezecash/breezecash-risk-api/) — The Risk API from Breeze.cash — 1 operation(s) for risk.
+- [Breeze.cash Statements API](https://apis.io/apis/breezecash/breezecash-statements-api/) — The Statements API from Breeze.cash — 2 operation(s) for statements.
+- [Breeze.cash Subscriptions API](https://apis.io/apis/breezecash/breezecash-subscriptions-api/) — The Subscriptions API from Breeze.cash — 4 operation(s) for subscriptions.
+- [Breeze.cash Tax API](https://apis.io/apis/breezecash/breezecash-tax-api/) — The Tax API from Breeze.cash — 1 operation(s) for tax.
+- [Breeze.cash Webhooks API](https://apis.io/apis/breezecash/breezecash-webhooks-api/) — Events Breeze sends to your configured webhook endpoint. Each delivery is an HTTP POST with a `{ type, data, signature }` body. Verify the signature before…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Breezecash Webhooks](https://apis.io/asyncapis/breezecash/breezecash-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Breezecash Agentic Access](https://apis.io/agentic-access/breezecash/breezecash-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CreateGatewayPaymentRequest](https://apis.io/schemas/breezecash/breezecash-create-gateway-payment-request/)
+- [CreateGatewayPaymentResponse](https://apis.io/schemas/breezecash/breezecash-create-gateway-payment-response/)
+- [CreatePaymentPageResponse](https://apis.io/schemas/breezecash/breezecash-create-payment-page-response/)
+- [CreateSubscriptionRequest](https://apis.io/schemas/breezecash/breezecash-create-subscription-request/)
+- [ExpirePaymentPageResponse](https://apis.io/schemas/breezecash/breezecash-expire-payment-page-response/)
+- [GetAllPaymentAttemptsResponse](https://apis.io/schemas/breezecash/breezecash-get-all-payment-attempts-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Breezecash Context](https://apis.io/jsonld/breezecash/breezecash-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Breezecash Openapi Overlay](https://apis.io/overlays/breezecash/breezecash-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Breeze.cash API Rules](https://apis.io/rules/breezecash/breezecash-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Breezecash Authentication](https://apis.io/security/breezecash/breezecash-authentication/)
+- [Breezecash Domain Security](https://apis.io/security/breezecash/breezecash-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://breeze.cash/)
+- [Documentation](https://docs.breeze.cash/)
+- [Getting started](https://docs.breeze.com/docs/quick-start)
+- [Support](https://support.breeze.com/)
+- [Terms of service](https://www.breeze.com/terms-of-service)
+- [Privacy policy](https://www.breeze.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 49.4** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 65.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 44.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.3** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/breezecash/](https://apis.io/providers/breezecash/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Breeze.cash: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/breezecash/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
